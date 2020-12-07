@@ -1,4 +1,4 @@
-±àºÅ,tradeDate,preClosePrice,actPreClosePrice,openPrice,highestPrice,lowestPrice,closePrice,dealAmount,marketValue,isOpen
+,tradeDate,preClosePrice,actPreClosePrice,openPrice,highestPrice,lowestPrice,closePrice,dealAmount,marketValue,isOpen
 0,2015/1/5,15.84,15.84,15.99,16.28,15.6,16.02,92478,1.83E+11,1
 1,2015/1/6,16.02,16.02,15.85,16.39,15.55,15.78,80325,1.80E+11,1
 2,2015/1/7,15.78,15.78,15.56,15.83,15.3,15.48,72697,1.77E+11,1
